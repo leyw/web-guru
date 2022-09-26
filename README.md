@@ -1,2 +1,2 @@
-# web-guru
-untuk web pribadi
+# belajar-github
+belajar github bersama BRITech
